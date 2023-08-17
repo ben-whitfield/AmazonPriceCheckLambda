@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/benwdev/priceChecker#readme",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "nodemailer": "^6.3.0"
   },
   "devDependencies": {
